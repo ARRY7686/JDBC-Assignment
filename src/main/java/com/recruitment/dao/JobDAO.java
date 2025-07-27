@@ -147,7 +147,7 @@ public class JobDAO {
     }
     
     /**
-     * Get all jobs (for compatibility)
+     * Get all jobs
      */
     public List<Job> getAllJobs() {
         String sql = """

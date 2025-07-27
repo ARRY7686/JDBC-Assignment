@@ -45,4 +45,4 @@ TROUBLESHOOTING:
 - Verify database 'recruitment_db' exists
 - Check that sample data is loaded
 
-Contact: [Your Name/Email]
+Contact: Aadi Gupta
